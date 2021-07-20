@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.severnssnape.moduleviewsetup.services
 
+import com.github.severnssnape.moduleviewsetup.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
